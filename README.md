@@ -114,8 +114,8 @@ some fatal fatal
 ```   
 
 Файл log.txt:   
-[some warning] [WARNING] [2025-01-19 09:17:32]
-[some error] [ERROR] [2025-01-19 09:17:40]
+[some warning] [WARNING] [2025-01-19 09:17:32]  
+[some error] [ERROR] [2025-01-19 09:17:40]  
 [some fatal] [FATAL] [2025-01-19 09:17:42]   
 
 ```bash
